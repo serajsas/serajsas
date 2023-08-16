@@ -18,6 +18,7 @@ Enthusiastic software engineer with a passion for solving complex problems throu
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serajabosabbah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serajaldinabosabbah@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Visits Badge](https://badges.pufler.dev/visits/serajsas/serajsas?style=for-the-badge)](https://github.com/serajsas/serajsas)
 
 </p>
@@ -42,3 +43,8 @@ Enthusiastic software engineer with a passion for solving complex problems throu
 
 </details>
 
+## Education
+- BSc of Computer Science | UBC | May 2024
+
+## Contact
+- Email: serajaldinabosabbah@gmail.com
