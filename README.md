@@ -45,6 +45,3 @@ Enthusiastic software engineer with a passion for solving complex problems throu
 
 ## Education
 - BSc of Computer Science | UBC | May 2024
-
-## Contact
-- Email: serajaldinabosabbah@gmail.com
