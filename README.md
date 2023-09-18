@@ -33,8 +33,8 @@ Enthusiastic software engineer with a passion for solving complex problems throu
 <br>
 
 <p align = "center">
-  <a href="https://github.com/StuffByLiang/stuffbyliang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajsas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&exclude_repo=krunker_idle_bot,Image-Pixelizer,reddit_clone&layout=compact&langs_count=7" alt="Liang's GitHub Stats" />
+  <a href="https://github.com/serajsas/serajsas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajsas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&exclude_repo=krunker_idle_bot,Image-Pixelizer,reddit_clone&layout=compact&langs_count=7" alt="Seraj's GitHub Stats" />
 </a>
 <a href="https://github.com/serajsas/serajsas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=serajsas&hide-title=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21" alt="Seraj's GitHub Stats" />
