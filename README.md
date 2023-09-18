@@ -44,4 +44,4 @@ Enthusiastic software engineer with a passion for solving complex problems throu
 </details>
 
 ## Education
-- BSc of Computer Science | UBC | May 2024
+- BSc of Computer Science | UBC | Dec 2024
